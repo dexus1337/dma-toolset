@@ -7,3 +7,6 @@
 [submodule "pcileech"]
 	path = pcileech
 	url = https://github.com/dexus1337/pcileech
+[submodule "pciscan"]
+	path = pciscan
+	url = https://github.com/dexus1337/pciscan
