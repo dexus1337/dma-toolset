@@ -1,0 +1,9 @@
+[submodule "vmm"]
+	path = vmm
+	url = https://github.com/dexus1337/MemProcFS
+[submodule "leechcore"]
+	path = leechcore
+	url = https://github.com/dexus1337/LeechCore
+[submodule "pcileech"]
+	path = pcileech
+	url = https://github.com/dexus1337/pcileech
